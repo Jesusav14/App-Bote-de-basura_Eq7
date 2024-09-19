@@ -1,0 +1,1 @@
+# App Bote de basura_Eq7
