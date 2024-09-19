@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Bote de basura_Eq7", "App Bote de basura_Eq7.csproj", "{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBA0A95-1B4B-4B54-93AA-C3FFE2F18C3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B446B660-C49D-4F95-AF7E-39699A0D6E71}
+	EndGlobalSection
+EndGlobal
